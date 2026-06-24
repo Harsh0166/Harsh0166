@@ -1,88 +1,141 @@
-# 👨‍💻 Harsh0166
+<h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 
-👋 Hi, I'm Harsh Kumar
-Java Developer | Spring Boot | Android Developer | ISRO Research Intern
+<h3 align="center">
+Java Developer | Spring Boot Developer | Android Developer | ISRO Research Intern
+</h3>
 
-I am a B.Tech Computer Science student at Sarala Birla University, Ranchi, passionate about backend development, Android applications, and software engineering.
-
-During my internship at IIRS-ISRO, I worked on methane emission detection using hyperspectral satellite data, geospatial processing, and automated data analysis pipelines in Python.
-
-I enjoy building scalable applications, REST APIs, and solving real-world problems through software.
-
-🚀 Current Focus
-Java & Spring Boot Development
-REST API Design
-Android Application Development
-MySQL & Database Design
-Remote Sensing & Geospatial Data Processing
-Data Structures & Algorithms
-💼 Experience
-Research Intern | IIRS-ISRO, Dehradun
-Developed automated methane plume detection and flux estimation workflows using hyperspectral satellite data.
-Implemented Python-based algorithms for environmental data analysis.
-Converted legacy GPR datasets into standardized formats using automated Python scripts.
-Software Development Intern | MECON Ltd.
-Developed an Assets Management System using Java Swing and MySQL.
-Implemented asset tracking and maintenance management modules.
-🛠️ Tech Stack
-Languages
-
-Java • Python • JavaScript • PHP • C
-
-Backend
-
-Spring Boot • REST APIs • JDBC • MySQL
-
-Frontend
-
-HTML • CSS • Bootstrap • AJAX • jQuery
-
-Mobile
-
-Android Development (Java)
-
-Tools
-
-Git • GitHub • VS Code • NetBeans • XAMPP
-
-Scientific Computing
-
-NumPy • Pandas • SciPy • netCDF4
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;Android+Developer;Backend+Development+Enthusiast;ISRO+Research+Intern" />
+</p>
 
 ---
 
-### 🧰 Languages and Tools
+## 👨‍💻 About Me
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge)
-          
-<br><br>
+🎓 B.Tech Computer Science Student at Sarala Birla University, Ranchi
 
-<br />
-📫 Connect With Me
-LinkedIn: linkedin.com/in/harsh-kumar-40761826b
-GitHub: github.com/Harsh0166
-Email: 2005harshkumar@gmail.com<br>
-<br>
+🚀 Research Intern at IIRS-ISRO, Dehradun
+
+💻 Passionate about Backend Development, Android Applications, and Software Engineering
+
+🌱 Currently Learning Advanced Spring Boot, System Design, and REST API Development
+
+⚡ Interested in Building Scalable Applications and Solving Real-World Problems
+
 ---
 
-### 📊 Stats
-<br><br>
+## 🚀 Experience
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh0166&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="harsh0166" />
+### 🛰️ Research Intern | IIRS-ISRO, Dehradun
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh0166&show_icons=true&theme=gruvbox)
+- Developed automated methane plume detection workflows using hyperspectral satellite data.
+- Implemented Python-based algorithms for methane emission analysis.
+- Processed geospatial datasets using NumPy, SciPy, and netCDF4.
+- Converted legacy GPR datasets into standardized formats using automated Python scripts.
 
- ![GitHub Streak](https://streak-stats.demolab.com?user=harsh0166&theme=gruvbox&border_radius=4.5)
+### 🏢 Software Development Intern | MECON Ltd.
+
+- Developed an Assets Management System using Java Swing and MySQL.
+- Implemented asset tracking and maintenance management modules.
+- Integrated database operations using JDBC.
+
+---
+
+## 🎯 Current Focus
+
+- Java Development
+- Spring Boot
+- REST API Design
+- Android Development
+- MySQL Database Design
+- Data Structures & Algorithms
+- Geospatial Data Processing
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,androidstudio,git,github,html,css,js,php,c,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💰 Expense Tracker
+Spring Boot based expense management system with MySQL integration and Android SMS-based expense detection.
+
+### 🛰️ Methane Detection & Quantification System
+Developed during ISRO internship using hyperspectral satellite data and Python algorithms.
+
+### 🏢 Assets Management System
+Desktop application for asset tracking and maintenance management using Java Swing and MySQL.
+
+### 🛒 ShopEase
+Full-stack e-commerce platform with product management, shopping cart, and order processing.
+
+### 🧠 TypeSense
+Machine Learning-based stress prediction system using smartphone typing behavior.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harsh0166&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh0166&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh0166&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Harsh0166&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh0166&theme=tokyo-night"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Harsh0166&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/harsh-kumar-40761826b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Harsh0166">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+📧 Email: **2005harshkumar@gmail.com**
+
+---
+
+⭐ If you like my projects, consider giving them a star!
