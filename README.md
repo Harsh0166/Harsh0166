@@ -1,14 +1,53 @@
 # 👨‍💻 Harsh0166
 
-**`Website Developer`**
+👋 Hi, I'm Harsh Kumar
+Java Developer | Spring Boot | Android Developer | ISRO Research Intern
 
-Hi, I am Harsh kumar, a B.Tech Computer Science student at Sarala Birla University Ranchi. I am a highly motivated and passionate individual who is committed to pursuing a career in software development.
-In my academic journey so far, I have completed various coursework in computer programming, data structures, algorithms, and database management systems. Additionally, I have undertaken several projects, including developing a web-based application for online shopping and creating a mobile application for event management.
+I am a B.Tech Computer Science student at Sarala Birla University, Ranchi, passionate about backend development, Android applications, and software engineering.
 
-   <p align="left">
-      <a href="https://github.com/harsh0166?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/harsh0166?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+During my internship at IIRS-ISRO, I worked on methane emission detection using hyperspectral satellite data, geospatial processing, and automated data analysis pipelines in Python.
+
+I enjoy building scalable applications, REST APIs, and solving real-world problems through software.
+
+🚀 Current Focus
+Java & Spring Boot Development
+REST API Design
+Android Application Development
+MySQL & Database Design
+Remote Sensing & Geospatial Data Processing
+Data Structures & Algorithms
+💼 Experience
+Research Intern | IIRS-ISRO, Dehradun
+Developed automated methane plume detection and flux estimation workflows using hyperspectral satellite data.
+Implemented Python-based algorithms for environmental data analysis.
+Converted legacy GPR datasets into standardized formats using automated Python scripts.
+Software Development Intern | MECON Ltd.
+Developed an Assets Management System using Java Swing and MySQL.
+Implemented asset tracking and maintenance management modules.
+🛠️ Tech Stack
+Languages
+
+Java • Python • JavaScript • PHP • C
+
+Backend
+
+Spring Boot • REST APIs • JDBC • MySQL
+
+Frontend
+
+HTML • CSS • Bootstrap • AJAX • jQuery
+
+Mobile
+
+Android Development (Java)
+
+Tools
+
+Git • GitHub • VS Code • NetBeans • XAMPP
+
+Scientific Computing
+
+NumPy • Pandas • SciPy • netCDF4
 
 ---
 
@@ -27,10 +66,10 @@ In my academic journey so far, I have completed various coursework in computer p
 <br><br>
 
 <br />
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/harsh-kumar-40761826b" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="harsh kumar" height="30" width="40" /></a>
-</p><br>
+📫 Connect With Me
+LinkedIn: linkedin.com/in/harsh-kumar-40761826b
+GitHub: github.com/Harsh0166
+Email: 2005harshkumar@gmail.com<br>
 <br>
 ---
 
